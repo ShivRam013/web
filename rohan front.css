@@ -1,0 +1,95 @@
+*{
+    margin: 0px;
+}
+
+
+.work{
+    text-align: center
+}
+
+.logo-text{
+    
+width: 360px;
+    margin: auto
+}
+
+
+
+.work h1{
+    font-size: 80px;
+    font-family: Cambria;
+
+    
+    
+}
+
+
+
+
+
+
+
+.logo img {
+    height: 350px;
+    animation: anime 2s;
+}
+
+@keyframes anime{
+    
+    100%{
+        transform: rotate(360deg);
+    }
+    
+}
+
+
+.logo-text h1{
+    animation: q 4s ;
+}
+
+@keyframes qq{
+    
+    0%{
+        opacity: 0;
+    }
+    
+    
+}
+
+
+
+.page{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    padding: 10px 2px
+}
+
+.page h1{
+    font-size: 38px;
+    margin-left: 5%
+}
+
+.page h2{
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"
+}
+
+.page01{
+    display: flex;
+justify-content: flex-end;
+
+    
+}
+
+.page1{
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 0px 5px;
+    padding: 5px 10px;
+}
+
+.page1 a{
+    text-decoration: none;
+    color: black;
+}

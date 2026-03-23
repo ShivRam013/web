@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    background-color: #E9E9E9
+}
+
+
+.top{
+    border-bottom: 1px solid;
+    padding: 6px 5px;
+    background-color: white
+}
+
+.top1 {
+    justify-content: center;
+   
+}
+
+
+.top img{
+    height: 30px;
+    margin-top: 3px;
+    margin-right: 5px;
+    background-color: white
+}
+
+.top h1{
+    background-color: white
+}
+
+
+.top div{
+    display: flex;
+    background-color: white
+}
+
+.back{
+    
+    font-size: 20px;
+    border: 2px solid;
+    padding:5px 10px;
+    border-radius: 20px;
+    background-color: white
+}
+
+.back a{
+    text-decoration: none;
+    color: black;
+    background-color: white
+    
+}
+
+.create{
+    font-size: 20px;
+    border: 2px solid;
+    padding:5px 10px;
+    border-radius: 20px;
+    background-color: white
+}
+
+.create a{
+    text-decoration: none;
+    color: black;
+    background-color: white
+}
+
+
+
+/** form **/
+
+
+.complete{
+
+        position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+
+    
+}
+
+
+
+form{
+    justify-content: center;
+    border: 1px solid;
+    width: 400px;
+    height: 200px;
+    background-color: white
+    
+}
+
+
+
+input[type]{
+
+    width: 83%;
+
+    background-color: white;
+    border: 1px solid white;
+    border-bottom: 1px solid;
+    margin: 0 25px;
+    padding: 5px
+    
+    
+    
+    
+}
+
+form p{
+    font-size: 19px;
+    margin: 5px 10px;
+    
+}
+
+button{
+    font-size: 15px;
+    margin: 10px 170px;	
+}
+
+button a{
+    text-decoration: none;
+    color: black
+}
+
+.forget{
+    text-decoration: none;
+    margin-left: 10px
+}
+
+    .head{
+    text-align: center;
+    margin-top: 40px
+}
